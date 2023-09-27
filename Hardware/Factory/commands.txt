@@ -1,0 +1,23 @@
+# Manual Mode control on / off
+520526dbff00 / 520526db0000
+
+# In valve on / off
+5205000Cff00 / 5205000C0000
+
+# Out valve on / off
+52050015ff00 / 520500150000
+
+# Start on / off
+52050021ff00 / 520500210000
+
+# Cutoff on / off
+52050005ff00 / 520500050000
+
+# Cutoff_in on / off
+5205001aff00 / 5205001a0000
+
+# Force_start_out on / off
+52050034ff00 / 520500340000
+
+# Force_start_in on / off
+52050538ff00 / 520505380000
